@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_d2e81791ef7167204d4ff348a31cb477102b095e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_888810084e63a3eca69edfc41ba044cdd8e56af5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4e5b23cce4fac8d7cfe2368b40d0eccc8ff43f04">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_26ebfac60b9ec0ee4de30b05d0bbb80a8a443caa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_cb96f117aea75a5f46fbd140b099003d97fe7ebe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a2c9dfb7a66f6c45b51b4012fa482475d04a4955">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\instant-run_2e6bc7dbe33a26b35133d09348ea0d73cba6f692.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_c27d70219006f3b755e46c1ee5a9d243c8869923.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_00c6d74cc04f715c98a6e12e1d420034fb355f4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_257187ed685f2ea5919f3b4522d10bf2175ead69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_98a9f38a4be667ed967a07d35281d28d1640571d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Samaro\AndroidStudioProjects\UsoSQLite\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_056b2294187a7c7aa8644c7cb5c42e2d610b6e62.jar" />
+    </item>
+
+</items>
